@@ -1,11 +1,11 @@
 # Maximum_Clique_Visualization
 ##  最大团可视化工具
 
-本项目界面使用PYQT5绘制，实现了自由绘图、绘边，图与邻接矩阵的互相转换，随机生成邻接矩阵进而画出图，实现了矩阵文件的打开与保存。图中各点的坐标使用[networkx](https://www.baidu.com/link?url=-5yd3R8WZt5PjsGgJ4LadG_VfRwH28Xl4J9QFkeLfoOp9pPn9mrvEyydOxl2Ip8H&wd=&eqid=e178d7930000010f000000065feb0799)获取。
+本项目界面使用PYQT5绘制，实现了自由绘图、绘边，图与邻接矩阵的互相转换，随机生成邻接矩阵进而画出图，实现了矩阵文件的打开与保存。图中各点的坐标使用[networkx](https://github.com/networkx/networkx)获取。
 
 ### 界面
 
-![image-20201229182804294](README.assets\image-20201229182804294.png)
+![image-20201229182804294](.\README.assets\image-20201229182804294.png)
 
 ### 画图区
 
