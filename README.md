@@ -5,7 +5,7 @@
 
 ### 界面
 
-![image-20201229182804294](.\README.assets\image-20201229182804294.png)
+![image-20201229182804294](README.assets/image-20201229182804294.png)
 
 ### 画图区
 
