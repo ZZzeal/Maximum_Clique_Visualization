@@ -14,11 +14,9 @@ matplotlib==3.3.3
 networkx==2.5
 numpy==1.19.4
 packaging==20.8
-pandas==1.1.5
 Pillow==8.0.1
 pluggy==0.13.1
 py==1.10.0
-pygraphviz @ file:///G:/pythonProject/Maximum_Clique_Problem/pygraphviz-1.6-cp38-cp38-win_amd64.whl
 pyparsing==2.4.7
 PyQt5==5.15.1
 pyqt5-plugins==5.15.1.2.0.1
@@ -35,7 +33,7 @@ pytz==2020.4
 qt5-applications==5.15.1.2.1
 qt5-tools==5.15.1.1.0.1
 requests==2.25.1
-scipy @ file:///G:/pythonProject/Maximum_Clique_Problem/scipy-1.5.4-cp38-cp38-win_amd64.whl
+scipy==1.5.4
 six==1.15.0
 toml==0.10.2
 urllib3==1.26.2
